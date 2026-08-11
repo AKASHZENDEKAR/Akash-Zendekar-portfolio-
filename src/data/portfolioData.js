@@ -38,7 +38,7 @@ export const aboutMe = `I'm a fresher software engineer from Bangalore with a ge
 export const skills = {
   Programming: ['Python', 'Java', 'SQL', 'JavaScript'],
   Frontend: ['HTML5', 'CSS3', 'Bootstrap'],
-  Backend: ['Flask', 'REST APIs', 'SQLAlchemy'],
+  Backend: ['Flask', 'REST APIs','Fast API', 'SQLAlchemy'],
   Database: ['MySQL', 'SQLite', 'PostgreSQL'],
   'AI & ML': ['TensorFlow', 'Scikit-learn', 'OpenCV', 'YOLOv8'],
   Tools: ['Git', 'GitHub', 'VS Code', 'Linux', 'Postman'],
